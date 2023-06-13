@@ -36,7 +36,7 @@ if (imc >= 18.5) and (imc <= 25):
 else:
     print('Você está com o IMC fora da média. Mantenha o seu IMC em cheque.')
 """
-"""
+
 print('--------------------------------------------\r')
 print('     DEPARTAMENTO DE TRÂNSITO\r')
 print('--------------------------------------------\r')
@@ -50,4 +50,3 @@ if (idade >= 18):
     print('Parabéns! Está apto para providenciar sua carteira de motorista!')
 else:
     print('Não está inapto para ser providenciado uma carteira de motorista.')
-"""
