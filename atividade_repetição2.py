@@ -47,7 +47,7 @@ while (cont <= n):
 print("O número é primo!")
 
 else:
-print("O valor é um numero primo!")
+print("O valor não é um numero primo!")
 """
 
 cont = 1
@@ -74,6 +74,9 @@ while True:
 
     elif (esc == 3):
         print("Até a próxima!")
+
+    else:
+        print("Por favor insira uma opção possível:\n")
         break
 
             
