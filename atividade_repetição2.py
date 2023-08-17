@@ -76,7 +76,7 @@ while True:
         print("Até a próxima!")
 
     else:
-        print("Por favor insira uma opção possível:\n")
+        print("Por favor insira uma opção possível:\n") 
         break
 
             
